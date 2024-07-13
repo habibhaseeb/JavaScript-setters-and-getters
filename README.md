@@ -31,7 +31,6 @@ console.log(Student.getFavouriteBook);
    a property you set in an Object. In the following code you set the 
    username OR its properties. This is used by the keyword `set` in a code.
   ```
-
 const speaker = {
     name: 'Fello',
     impedence: '8 Ohms',
